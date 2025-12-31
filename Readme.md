@@ -76,4 +76,4 @@ Terminal Üzerinden Çalıştırma :
 - python main.py
 
 Streamlit Arayüzü ile Çalıştırma : 
-- streamlit run app.py
+- streamlit run app.py 
