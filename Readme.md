@@ -10,7 +10,7 @@
 <p>
   <img width="1459" height="668" alt="Ekran Resmi 2026-12-29 14 45 12" src="https://github.com/user-attachments/assets/6b21a648-645f-4468-9985-ca5a84b83b79" />
 </p>
-
+ 
 <br>
 <br>
 
