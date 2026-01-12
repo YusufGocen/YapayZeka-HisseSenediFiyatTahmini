@@ -1,14 +1,14 @@
 <h1>BIST 30 Hisseleri İçin Yapay Zeka ile Fiyat Tahmin Sistemi</h1>
 <p>
-  <img width="1459" height="706" alt="Ekran Resmi 2026-12-29 14 49 47" src="https://github.com/user-attachments/assets/f217966c-3f99-424d-becc-c8bb7fddb853" />
+  <img width="1385" height="674" alt="Ekran Resmi 2026-01-12 19 10 54" src="https://github.com/user-attachments/assets/b902fe03-76cf-4449-a220-8ae120115013" />
 </p>
 <br>
 <p>
-  <img width="1459" height="706" alt="Ekran Resmi 2026-12-29 14 44 41" src="https://github.com/user-attachments/assets/7af18bdc-f6de-4efb-99c3-0c117c1fe78f" />
+<img width="1385" height="674" alt="Ekran Resmi 2026-01-12 19 11 18" src="https://github.com/user-attachments/assets/a947ae87-0506-4851-bd0f-9ad44850307f" />
 </p>
 <br>
 <p>
-  <img width="1459" height="668" alt="Ekran Resmi 2026-12-29 14 45 12" src="https://github.com/user-attachments/assets/6b21a648-645f-4468-9985-ca5a84b83b79" />
+<img width="1385" height="674" alt="Ekran Resmi 2026-01-12 19 11 47" src="https://github.com/user-attachments/assets/cc516474-9d5e-4ed7-a665-ff0e96170fe9" />
 </p>
  
 <br>
